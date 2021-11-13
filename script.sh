@@ -1,2 +1,3 @@
 ls -a &&
-echo "welcome"
+echo "welcome" &&
+echo "bye"
